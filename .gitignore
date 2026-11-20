@@ -1,0 +1,7 @@
+# 音樂檔有版權，不上傳（自己放進 music/ 資料夾即可）
+music/*
+!music/.gitkeep
+# 本機設定
+.claude/settings.local.json
+Thumbs.db
+.DS_Store
